@@ -11,6 +11,10 @@ int main()
     cout << "Poka!!!\n";
     cout << "Bye!!!!\n";
     cout << "*******************\n";
+
+    
+    cout << "new function \n";
+    return 0;
 }
 
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"
